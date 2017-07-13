@@ -1,0 +1,23 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: the bakery
+layout_spectrum: 0.8430133876390755
+typography_spectrum: 0.5568958269432187
+color:
+  brandStrength: 0.8642543824389577
+  lightness: 0.446442500455305
+  saturation: 0.5807338613085449
+  rhythmicContrast: 0.48628557682968676
+  brandColors:
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+content: []
+github: true
