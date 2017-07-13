@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[the bakery]]></title>
+        <description><![CDATA[the bakery]]></description>
+        <link>https://thegrid.ai/the-bakery/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 13 Jul 2017 10:46:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-bakery/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A New Kind of Blue - The Makers]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FrfPNhMu6bRQ%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DrfPNhMu6bRQ&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FrfPNhMu6bRQ%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.youtube.com/watch?v=rfPNhMu6bRQ</link>
+            <guid isPermaLink="false">6e22d82f-6d71-421b-a237-48410d16b3c9</guid>
+            <pubDate>Thu, 13 Jul 2017 10:46:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
