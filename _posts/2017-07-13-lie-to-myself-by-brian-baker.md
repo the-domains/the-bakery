@@ -55,13 +55,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/Aas9geKDxvo'
 title: Lie to Myself by Brian Baker
-datePublished: '2017-07-13T12:27:52.931Z'
-dateModified: '2017-07-13T12:27:04.609Z'
-datePublishedOriginal: '2017-07-13T12:27:52.931Z'
+datePublished: '2017-07-13T12:53:49.770Z'
+dateModified: '2017-07-13T12:53:49.560Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-07-13-lie-to-myself-by-brian-baker.md
+starred: false
+datePublishedOriginal: '2017-07-13T12:27:52.931Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
