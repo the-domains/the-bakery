@@ -54,13 +54,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/9EqpInNWtFE'
 title: '"Letting go" live 2012'
-datePublished: '2017-07-13T12:29:41.723Z'
-dateModified: '2017-07-13T12:29:28.388Z'
-datePublishedOriginal: '2017-07-13T12:29:41.723Z'
+datePublished: '2017-07-13T12:53:49.755Z'
+dateModified: '2017-07-13T12:53:49.560Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-07-13-letting-go-live-2012.md
+starred: false
+datePublishedOriginal: '2017-07-13T12:29:41.723Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
