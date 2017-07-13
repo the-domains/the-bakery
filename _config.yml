@@ -27,3 +27,6 @@ purpose:
   - type: contact
     url: 'mailto:brian@atractorproductions.com'
     label: Contact me
+  - type: contact
+    url: 'tel:+61412967050'
+    label: Call +61412967050
