@@ -23,3 +23,7 @@ content: []
 github: true
 title: the bakery
 description: Recording Studio Song Production Workshop
+purpose:
+  - type: contact
+    url: 'mailto:brian@atractorproductions.com'
+    label: Contact me
