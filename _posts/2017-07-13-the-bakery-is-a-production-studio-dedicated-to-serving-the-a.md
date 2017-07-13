@@ -3,16 +3,16 @@ inFeed: true
 description: >-
   The Bakery is a production studio dedicated to serving the artist and the
   song.
-dateModified: '2017-07-13T12:23:55.432Z'
-datePublished: '2017-07-13T12:23:56.940Z'
+dateModified: '2017-07-13T12:53:49.560Z'
+datePublished: '2017-07-13T12:53:49.760Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
-datePublishedOriginal: '2017-07-13T12:23:56.940Z'
 sourcePath: >-
   _posts/2017-07-13-the-bakery-is-a-production-studio-dedicated-to-serving-the-a.md
+starred: false
+datePublishedOriginal: '2017-07-13T12:23:56.940Z'
 _type: Blurb
 
 ---
